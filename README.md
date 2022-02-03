@@ -26,7 +26,7 @@
 <h1 align="center">My stats:</h1>
 <p align="center">
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=pit-with-pizza&theme=onedark&show_icons=true" />
+  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=pit-with-pizza&theme=onedark&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pit-with-pizza&layout=compact&theme=onedark" />
 </div>
 
