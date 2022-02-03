@@ -20,7 +20,9 @@
 ![pit-with-pizza GitHub stats](https://github-readme-stats.vercel.app/api?username=pit-with-pizza&theme=onedark&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pit-with-pizza&layout=big&theme=onedark&show_icons=true)](https://github.com/pit-with-pizza/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pit-with-pizza&layout=giant&theme=onedark&show_icons=true)](https://github.com/pit-with-pizza/github-readme-stats)
 
 
-[![pit-with-pizza wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pit_with_pizza)](https://github.com/pit-with-pizza/github-readme-stats)
+<figure><embed src="https://wakatime.com/share/@pit_with_pizza/f56ef364-049b-4a4f-9bac-a831615ec672.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@pit_with_pizza/13da738c-4fd8-4559-bf83-1e9614fd494a.svg"></embed></figure>
