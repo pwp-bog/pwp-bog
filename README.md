@@ -11,16 +11,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=jump+text)](https://git.io/typing-svg)
 
 
-
 <h1 align="center">Language and tools:</h1>
 <p align="center">
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/-C++-090909??style=for-the-badge&logo=c%2b%2b&logoColor=6299CC" alt="" height="25" width="60" /></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/-Python-090909??style=for-the-badge&logo=Python&logoColor=30B246" alt="" height="25" width="70" /></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/-Github-090909??style=for-the-badge&logo=github&logoColor=0000" alt="" height="25" width="75" /></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/-Github-090909??style=for-the-badge&logo=github&logoColor=0000" alt="" height="25" width="75" /></a>
+<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-logo-4/32/Social_Media_vs_code_visual_studio_code-256.png" alt="" height="30" width="60" /></a>
+
 </p>
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png
+
+
+
 <h1 align="center">Connect with me:</h1>
 <p align="center">
 <a href="https://vk.com/authorpythonkazika" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" alt="" height="30" width="40" /></a>
@@ -29,7 +28,6 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.3
 </p>
 
 
-![VS Code](https://img.shields.io/badge/-C++-090909??style=for-the-badge&logo=&logoColor=6299CC)
 
 ![pit-with-pizza GitHub stats](https://github-readme-stats.vercel.app/api?username=pit-with-pizza&theme=onedark&show_icons=true)
 
