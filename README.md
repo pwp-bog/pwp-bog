@@ -1,13 +1,11 @@
-
 <h1 align="center">Hi there, I'm Bogdan </a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
 
 <h3 align="center">I am a Python and C++ developer. I develop telegram bots, scripts in Python and C++.</a>
 </h1>
 
 
-
+---
 <h1 align="center">Language and tools:</h1>
 <p align="center">
 <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="" height="25" width="30" /></a>
@@ -20,7 +18,7 @@
 </p>
 
 
-
+---
 
 <h1 align="center">Connect with me:</h1>
 <p align="center">
@@ -30,13 +28,17 @@
 </p>
 
 
+---
 
-![pit-with-pizza GitHub stats](https://github-readme-stats.vercel.app/api?username=pit-with-pizza&theme=onedark&show_icons=true)
+<h1 align="center">My stats:</h1>
+<p align="center">
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=pit-with-pizza&theme=onedark&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pit-with-pizza&layout=compact&theme=onedark" />
+</div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AParovyshnaya&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pit-with-pizza&layout=giant&theme=onedark&show_icons=true)](https://github.com/pit-with-pizza/github-readme-stats)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=pit-with-pizza&theme=onedark)](https://github.com/pit-with-pizza/github-profile-trophy)
+---
 
 
