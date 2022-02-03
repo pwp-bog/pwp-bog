@@ -12,7 +12,6 @@
 <a href="https://www.heroku.com
 " target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/873/873120.png" alt="" height="25" width="30" /></a>
 </p>
-
 <h1 align="right">Connect with me:</h1>
 <p align="right">
 <a href="https://vk.com/authorpythonkazika" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" alt="" height="30" width="30" /></a>
@@ -26,7 +25,7 @@
 <h1 align="center">My stats:</h1>
 <p align="center">
 <div>
-  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=pit-with-pizza&theme=onedark&show_icons=true" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=pit-with-pizza&theme=onedark&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pit-with-pizza&layout=compact&theme=onedark" />
 </div>
 
