@@ -27,8 +27,8 @@
 
 <h1 align="center">Connect with me:</h1>
 <p align="center">
-<a href="https://vk.com/authorpythonkazika" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" alt="" height="30" width="40" /></a>
-<a href="https://t.me/pit_with_pizza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
+<a href="https://vk.com/authorpythonkazika" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" alt="" height="30" width="30" /></a>
+<a href="https://t.me/pit_with_pizza" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="" height="27" width="27" /></a>
 
 </p>
 
