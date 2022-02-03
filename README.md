@@ -17,4 +17,7 @@
 
 ![VS Code](https://img.shields.io/badge/-C++-090909??style=for-the-badge&logo=&logoColor=6299CC)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pit-with-pizza&theme=onedark&show_icons=true)
+![pit-with-pizza GitHub stats](https://github-readme-stats.vercel.app/api?username=pit-with-pizza&theme=onedark&show_icons=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pit-with-pizza&layout=compact&theme=onedark&show_icons=true)](https://github.com/pit-with-pizza/github-readme-stats)
