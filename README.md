@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=35&desc=I`m%20learning%20Python%20and%20C%20and%20%20I%20also%20love%20%20programming...&descAlign=52)
 
 
- and C, I also love programming.
 ---
 <h1 align="center">Language and tools:</h1>
 <p align="center">
