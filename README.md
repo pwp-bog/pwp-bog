@@ -5,11 +5,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/pit-with-pizza?style=social)
 
 
-<h3 align="center">Тест текст номер 1</h3>
-
-<!---Пример кода-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=jump+text)](https://git.io/typing-svg)
-
 
 <h1 align="center">Language and tools:</h1>
 <p align="center">
