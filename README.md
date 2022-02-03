@@ -23,6 +23,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pit-with-pizza&layout=giant&theme=onedark&show_icons=true)](https://github.com/pit-with-pizza/github-readme-stats)
 
 
-<figure><embed src="https://wakatime.com/share/@pit_with_pizza/f56ef364-049b-4a4f-9bac-a831615ec672.svg"></embed></figure>
+[![trophy](https://github-profile-trophy.vercel.app/?username=pit-with-pizza&theme=onedark)](https://github.com/pit-with-pizza/github-profile-trophy)
 
-<figure><embed src="https://wakatime.com/share/@pit_with_pizza/13da738c-4fd8-4559-bf83-1e9614fd494a.svg"></embed></figure>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="" alt="C:\github\pit-with-pizza\assets\notion.svg" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
