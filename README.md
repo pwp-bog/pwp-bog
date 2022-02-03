@@ -2,7 +2,9 @@
 <h1 align="center">Hi there, I'm Bogdan </a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-![GitHub followers](https://img.shields.io/github/followers/pit-with-pizza?style=social)
+
+<h3 align="center">I am a Python and C++ developer. I develop telegram bots, scripts in Python and C++.</a>
+</h1>
 
 
 
