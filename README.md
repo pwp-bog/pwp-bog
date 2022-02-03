@@ -13,9 +13,9 @@
 
 <h1 align="center">Language and tools:</h1>
 <p align="center">
-<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://code.visualstudio.com/assets/images/code-stable-white.png" alt="" height="30" width="35" /></a>
-<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="" height="35" width="35" /></a>
-
+<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="" height="25" width="30" /></a>
+<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://i.dlpng.com/static/png/446077_preview.png" alt="" height="35" width="35" /></a>
+<a href="https://www.notion.so/130513c7d185462c8757c833e51a52ef" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="" height="24" width="30" /></a>
 </p>
 
 
@@ -25,7 +25,7 @@
 <p align="center">
 <a href="https://vk.com/authorpythonkazika" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" alt="" height="30" width="40" /></a>
 <a href="https://t.me/pit_with_pizza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.notion.so/130513c7d185462c8757c833e51a52ef" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg" alt="" height="30" width="40" /></a>
+
 </p>
 
 
