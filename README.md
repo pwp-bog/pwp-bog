@@ -29,7 +29,7 @@
 <p align="center">
 <a href="https://vk.com/authorpythonkazika" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" alt="" height="30" width="30" /></a>
 <a href="https://t.me/pit_with_pizza" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="" height="27" width="27" /></a>
-
+<a href="https://discordapp.com/users/781475572622295071" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Discord_(software)/Discord_(software)-Logo-Color-Logo.wine.svg" alt="" height="40" width="30" /></a>
 </p>
 
 
