@@ -1,7 +1,6 @@
-<h1 align="center">Hi there, I'm Bogdan </a>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=35&desc=I%20am%20a%20Python%20and%20C%20%20delovper.%20I%20develop%20telegram%20bots,%20scripts&20in%20Python%20and%20C%++descAlignY=1&descAlign=52)
 
-<h3 align="center">I am a Python and C++ developer. I develop telegram bots, scripts in Python and C++.</a>
+<h3 align="center">I am a Python and C++ developer and i like programer.</a>
 </h1>
 
 
