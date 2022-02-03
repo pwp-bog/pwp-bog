@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=35&desc=I%20am%20a%20Python%20and%20C%20%20delovper.%20I%20develop%20telegram%20bots,%20scripts&20in%20Python%20and%20C%++descAlignY=1&descAlign=52)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=35&desc=I`m%20learning%20Python%20and%20C%20and%20%20I%20also%20love%20t%20programming..++descAlignY=1&descAlign=52)
 
 
-
+ and C, I also love programming.
 ---
 <h1 align="center">Language and tools:</h1>
 <p align="center">
