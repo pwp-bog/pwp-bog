@@ -13,7 +13,8 @@
 
 <h1 align="center">Language and tools:</h1>
 <p align="center">
-<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-logo-4/32/Social_Media_vs_code_visual_studio_code-256.png" alt="" height="30" width="60" /></a>
+<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://code.visualstudio.com/assets/images/code-stable-white.png" alt="" height="30" width="35" /></a>
+<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="" height="35" width="35" /></a>
 
 </p>
 
