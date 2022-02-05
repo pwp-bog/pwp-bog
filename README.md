@@ -20,9 +20,9 @@
 
 
 
+
+
 <!--
-<h1 align="center">My stats:</h1>
-<p align="center">
 <div>
   <img width="420" src="https://github-readme-stats.vercel.app/api?username=pit-with-pizza&theme=onedark&show_icons=true" />
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pit-with-pizza&layout=compact&theme=onedark" />
@@ -34,9 +34,16 @@
 
 
 <!-- Время активности за неделю -->
+<h1 align="center">My stats:</h1>
+<p align="center">
+
+
+---
+
 <h1 align="center">Coding activity over last 7 days</h3>
 <p align="center">
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pit_with_pizza/9bc19245-898e-4cd8-b9ae-4207ec9ad6ae.svg" /></a>
+
 
 
 ---
@@ -57,4 +64,6 @@
 <a href="https://wakatime.com"><img width="350" src="https://wakatime.com/share/@pit_with_pizza/b633a95e-4de9-47ad-b8d2-bf63584ac6ae.svg"
 <p align="right"> <img width="350" src="https://wakatime.com/share/@pit_with_pizza/b36a32e5-f69c-416d-b999-834b8e7d0d7b.svg"
 /></a>
+
+
 ---
