@@ -49,8 +49,8 @@
 <!-- Статистика по языкам за неделю-->
 <h3 align="center">Languages over last 7 days and all time</h3>
 <p align="left">
-<a href="https://wakatime.com"><img width="350" src="https://wakatime.com/share/@pit_with_pizza/3074d269-958b-4568-91d5-088441ff172a.svg"
-<p align="right"> <img width="350" src="https://wakatime.com/share/@pit_with_pizza/f90c01e7-eb29-4d2b-89ac-d91e0d51eab0.svg"
+<a href="https://wakatime.com"><img width="500" src="https://wakatime.com/share/@pit_with_pizza/3074d269-958b-4568-91d5-088441ff172a.svg"
+<p align="right"> <img width="500" src="https://wakatime.com/share/@pit_with_pizza/f90c01e7-eb29-4d2b-89ac-d91e0d51eab0.svg"
 /></a>
 ---
 
@@ -59,8 +59,8 @@
 <!-- Статистика по ide -->
 <h3 align="center">Editors over last 7 days and all time</h3>
 <p align="left">
-<a href="https://wakatime.com"><img width="350" src="https://wakatime.com/share/@pit_with_pizza/b633a95e-4de9-47ad-b8d2-bf63584ac6ae.svg"
-<p align="right"> <img width="350" src="https://wakatime.com/share/@pit_with_pizza/b36a32e5-f69c-416d-b999-834b8e7d0d7b.svg"
+<a href="https://wakatime.com"><img width="500" src="https://wakatime.com/share/@pit_with_pizza/b633a95e-4de9-47ad-b8d2-bf63584ac6ae.svg"
+<p align="right"> <img width="500" src="https://wakatime.com/share/@pit_with_pizza/b36a32e5-f69c-416d-b999-834b8e7d0d7b.svg"
 /></a>
 
 
