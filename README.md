@@ -30,13 +30,13 @@
 
 ---
 <!-- Карточка профиля:  -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pit-with-pizza&theme=dracula&algin=center)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pit-with-pizza&theme=dracula&algin=center)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pit-with-pizza&theme=dracula&algin=center)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pit-with-pizza&theme=dracula&algin=center)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pit-with-pizza&theme=dracula&algin=center)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pit-with-pizza&theme=github_dark&algin=center)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pit-with-pizza&theme=github_dark&algin=center)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pit-with-pizza&theme=github_dark&algin=center)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pit-with-pizza&theme=github_dark&algin=center)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pit-with-pizza&theme=github_dark&algin=center)
 
 ---
 
 <h1 align="center">My trophy</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pit-with-pizza&theme=dracula)](https://github.com/pit-with-pizza/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pit-with-pizza&theme=github_dark)](https://github.com/pit-with-pizza/github-profile-trophy)
 
 ---
