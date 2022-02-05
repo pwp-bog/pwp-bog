@@ -47,10 +47,9 @@
 ---
 
 <!-- Статистика по языкам за неделю-->
-<h3 align="center">Languages over last 7 days and all time</h3>
+<h3 align="center">Languages over last 7 days</h3>
 <p align="center">
-<a href="https://wakatime.com"><img width="1000" src="https://wakatime.com/share/@pit_with_pizza/3074d269-958b-4568-91d5-088441ff172a.svg">
-/></a>
+<a href="https://wakatime.com"><img width="1000" src="https://wakatime.com/share/@pit_with_pizza/3074d269-958b-4568-91d5-088441ff172a.svg"></a>
 
 
 <h3 align="center">Languages over all time</h3>
@@ -62,7 +61,7 @@
 
 ---
 <!-- Статистика по ide -->
-<h3 align="center">Editors over last 7 days and all time</h3>
+<h3 align="center">Editors over last 7 days</h3>
 <p align="center">
 <a href="https://wakatime.com"><img width="1000" src="https://wakatime.com/share/@pit_with_pizza/b633a95e-4de9-47ad-b8d2-bf63584ac6ae.svg"
 /></a>
