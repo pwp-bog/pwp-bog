@@ -70,12 +70,4 @@
 
   
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pit-with-pizza&theme=onedark&with=350&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-  
-  
-  
-  
-  
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pit-with-pizza&theme=onedark)](https://github.com/pit-with-pizza/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pit-with-pizza&theme=onedark&with=350&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pit-with-pizza&theme=onedark)](https://github.com/pit-with-pizza/github-readme-stats)
