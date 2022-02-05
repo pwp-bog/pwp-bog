@@ -66,7 +66,6 @@
 
 ---
 
-
 <h1 align="center">My trophy</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pit-with-pizza&theme=onedark)](https://github.com/pit-with-pizza/github-profile-trophy)
