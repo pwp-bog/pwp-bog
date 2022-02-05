@@ -1,3 +1,6 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=35&desc=I`m%20learning%20Python%20and%20C%20and%20I%20also%20love%20%20programming.&descAlign=52)
 
 
@@ -24,19 +27,71 @@
 
 ---
 <!-- Время активности за неделю -->
-<h1 align="center">My stats:</h1>
+<h1 align="center">Language stats:</h1>
 <p align="center">
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pit_with_pizza&theme=nord&layout=compact" />
+</a>
+
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pit-with-pizza&theme=nord_dark&algin=center" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pit-with-pizza&theme=nord_dark&algin=center" />
+</a>
+
 
 
 ---
 <!-- Карточка профиля:  -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pit-with-pizza&theme=nord_dark&algin=center)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pit-with-pizza&theme=nord_dark&algin=center)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pit-with-pizza&theme=nord_dark&algin=center)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pit-with-pizza&theme=nord_dark&algin=center)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pit-with-pizza&theme=nord_dark&algin=center)
+<h1 align="center">GitHub stats:</h1>
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pit-with-pizza&theme=nord_dark&algin=center" />
+</a>
+
+
+
+
+
+
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pit-with-pizza&theme=nord_dark&algin=center" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pit-with-pizza&theme=nord_dark&algin=center" />
+</a>
+
+
+
+
 
 ---
 
 <h1 align="center">My trophy</h3>
+<p align="center">
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=pit-with-pizza&theme=nord" />
+</a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pit-with-pizza&theme=nord)](https://github.com/pit-with-pizza/github-profile-trophy)
+
+---
+
+
+<h1 align="center">Favorite repositories:</h1>
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pit-with-pizza&repo=College_labs&theme=nord" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pit-with-pizza&repo=Python&theme=nord" />
+</a>
+
+
 
 ---
