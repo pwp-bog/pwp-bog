@@ -7,10 +7,10 @@
 ---
 <h1 align="center">📌Pined repositories:</h1>
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/pit-with-pizza/College_labs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pit-with-pizza&repo=College_labs&theme=nord" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/pit-with-pizza/Python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pit-with-pizza&repo=Python&theme=nord" />
 </a>
 
