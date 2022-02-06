@@ -112,22 +112,5 @@
 <a href="https://t.me/pit_with_pizza" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="" height="37" width="37" /></a>
 <a href="https://discordapp.com/users/781475572622295071" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Discord_(software)/Discord_(software)-Logo-Color-Logo.wine.svg" alt="" height="60" width="40" /></a>
 <a href="mailto:bogdanzadora2005@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="" height="30" width="35" /></a>
-
 </p>
-
-
-
-
-
-
-
-
-Time coding with start week
-
-<a href="https://wakatime.com/@2ea01bee-50ba-4268-939a-90d9b11c6cae"><img src="https://wakatime.com/badge/user/2ea01bee-50ba-4268-939a-90d9b11c6cae.svg" alt="Total time coded since Feb 3 2022" /></a>
-
-
-Time coding in the github folder
-
-<a href="https://wakatime.com/badge/user/2ea01bee-50ba-4268-939a-90d9b11c6cae/project/da7b2c8e-9415-45a0-ba76-0f5f67fc6a9f"><img src="https://wakatime.com/badge/user/2ea01bee-50ba-4268-939a-90d9b11c6cae/project/da7b2c8e-9415-45a0-ba76-0f5f67fc6a9f.svg" alt="wakatime"></a>
 
