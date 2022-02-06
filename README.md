@@ -83,7 +83,7 @@
 
 
 
-<h2 align="center">🧰Language and tools:</h2>
+<h1 align="center">🧰Language and tools:</h1>
 <p align="center">
 <a href="https://github.com/" target="blank"><img align="center" src="https://i.dlpng.com/static/png/446077_preview.png" alt="" height="45" width="45" /></a>
 <a href="https://git-scm.com/" target="blank"><img align="center" src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png" alt="" height="35" width="35" /></a>
@@ -106,7 +106,7 @@
 
 
 ---
-<h2 align="center">🌐My social:</h2>
+<h1 align="center">🌐My social:</h1>
 <p align="center">
 <a href="https://vk.com/authorpythonkazika" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" alt="" height="40" width="40" /></a>
 <a href="https://t.me/pit_with_pizza" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="" height="37" width="37" /></a>
