@@ -8,10 +8,10 @@
 <h1 align="center">📌Pined repositories:</h1>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pit-with-pizza&repo=College_labs&theme=nord" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=College_labs&theme=jolly" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pit-with-pizza&repo=Python&theme=nord" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=Python&theme=jolly" />
 </a>
 
 
@@ -24,16 +24,16 @@
 <p align="center">
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pit_with_pizza&theme=nord&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pwp-programer&theme=dracula&layout=compact" />
 </a>
 
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pit-with-pizza&theme=nord_dark&algin=center" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pwp-programer&theme=dracula&algin=center" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pit-with-pizza&theme=nord_dark&algin=center" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pwp-programer&theme=jolly&algin=center" />
 </a>
 
 
@@ -43,23 +43,23 @@
 <h1 align="center">📊GitHub stats:</h1>
 <p align="center">
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pit-with-pizza&theme=nord" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pwp-programer&theme=jolly" />
 </a>
 
 
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pit-with-pizza&theme=nord_dark&algin=center" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pwp-programer&theme=jolly&algin=center" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pit-with-pizza&theme=nord_dark&algin=center" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pwp-programer&theme=jolly&algin=center" />
 </a>
 
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pit-with-pizza&theme=nord_dark&algin=center" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pwp-programer&theme=jolly&algin=center" />
 </a>
 
 
@@ -68,7 +68,7 @@
 <h1 align="center">🏆My trophy</h1>
 <p align="center">
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=pit-with-pizza&theme=nord" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=pwp-programer&theme=dracula" />
 </a>
 
 
@@ -109,7 +109,7 @@
 <h1 align="center">🌐My social:</h1>
 <p align="center">
 <a href="https://vk.com/authorpythonkazika" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" alt="" height="40" width="40" /></a>
-<a href="https://t.me/pit_with_pizza" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="" height="37" width="37" /></a>
+<a href="https://t.me/pwp_programer" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="" height="37" width="37" /></a>
 <a href="https://discordapp.com/users/781475572622295071" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Discord_(software)/Discord_(software)-Logo-Color-Logo.wine.svg" alt="" height="60" width="40" /></a>
 <a href="mailto:bogdanzadora2005@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="" height="30" width="35" /></a>
 </p>
