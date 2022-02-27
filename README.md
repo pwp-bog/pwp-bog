@@ -1,10 +1,10 @@
 
-<h1 align="center">Hello this is my github<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1></h1>
+<h1 align="center">Hello this is my repo<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1></h1>
 <p align="center">
-    <img align="center" src="https://c.tenor.com/Vqy4yLXk2iAAAAAC/anime-cute.gifhttps://i.pinimg.com/originals/f4/db/6f/f4db6fff7d8c50709eb924d33484524e.gif", height=120, weight=150>
-    <img align="center" src="https://c.tenor.com/kzr6MdTGktsAAAAd/love-anime.gif", height=120, weight=150>
-    <img align="center" src="https://i.imgur.com/b76RLSy.gif" height=120, weight=150/>
-    <img align="center" src="https://thumbs.gfycat.com/AdmirableHospitableHen-size_restricted.gif", height=120, weight=150>
+    <img align="center" src="https://c.tenor.com/Vqy4yLXk2iAAAAAC/anime-cute.gifhttps://i.pinimg.com/originals/f4/db/6f/f4db6fff7d8c50709eb924d33484524e.gif", height=100, weight=150>
+    <img align="center" src="https://c.tenor.com/kzr6MdTGktsAAAAd/love-anime.gif", height=100, weight=150>
+    <img align="center" src="https://i.imgur.com/b76RLSy.gif" height=100, weight=150/>
+    <img align="center" src="https://thumbs.gfycat.com/AdmirableHospitableHen-size_restricted.gif", height=100, weight=150>
 </p>
 
 
@@ -36,9 +36,10 @@
 
 <h1 align="center">My social🌐</h1>
 <p align="center">
-<a href="https://vk.com/authorpythonkazika" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-6/24/vk-256.png" alt="" height="200" width="200" /></a>
-<a href="https://t.me/pwp_programer" target="blank"><img align="center" src="https://pden.xyz/static/media/footer-telegram.65ecede2.png" alt="" height="200" width="200" /></a>
-<a href="https://discordapp.com/users/781475572622295071" target="blank"><img align="center" src="https://pbs.twimg.com/media/EimP7syXkAEEd9C.jpg" alt="" height="200" width="200" /></a>
-<a href="mailto:bogdanzadora2005@gmail.com" target="blank"><img align="center" src="https://icones.pro/wp-content/uploads/2021/05/icones-de-messagerie-violet.png" alt="" height="200" width="200" /></a>
+<a href="https://vk.com/authorpythonkazika" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-6/24/vk-256.png" alt="" height="50" width="50" /></a> - Vkontakte
+<a href="https://t.me/pwp_programer" target="blank"><img align="center" src="https://pden.xyz/static/media/footer-telegram.65ecede2.png" alt="" height="50" width="50" /></a> - Telegram
+<a href="https://discordapp.com/users/781475572622295071" target="blank"><img align="center" src="https://pbs.twimg.com/media/EimP7syXkAEEd9C.jpg" alt="" height="50" width="50" /></a> - Discord
+<a href="mailto:bogdanzadora2005@gmail.com" target="blank"><img align="center" src="https://icones.pro/wp-content/uploads/2021/05/icones-de-messagerie-violet.png" alt="" height="50" width="50" /></a> - Mail
 
+</p>
 </p>
