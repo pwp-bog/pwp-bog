@@ -34,3 +34,11 @@
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pwp/3e584af6-40e6-4357-adbf-e61e31ec4708.png" /></a>
 </p>
 
+<h1 align="center">My social🌐</h1>
+<p align="center">
+<a href="https://vk.com/authorpythonkazika" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-6/24/vk-256.png" alt="" height="200" width="200" /></a>
+<a href="https://t.me/pwp_programer" target="blank"><img align="center" src="https://pden.xyz/static/media/footer-telegram.65ecede2.png" alt="" height="200" width="200" /></a>
+<a href="https://discordapp.com/users/781475572622295071" target="blank"><img align="center" src="https://pbs.twimg.com/media/EimP7syXkAEEd9C.jpg" alt="" height="200" width="200" /></a>
+<a href="mailto:bogdanzadora2005@gmail.com" target="blank"><img align="center" src="https://icones.pro/wp-content/uploads/2021/05/icones-de-messagerie-violet.png" alt="" height="200" width="200" /></a>
+
+</p>
