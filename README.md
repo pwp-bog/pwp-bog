@@ -33,7 +33,7 @@
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pwp-programer&theme=dracula&algin=center" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pwp-programer&theme=jolly&algin=center" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pwp-programer&theme=darcula&algin=center" />
 </a>
 
 
