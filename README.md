@@ -26,3 +26,12 @@
 ---
 
 
+
+
+
+<h1 align="center">My stats:</h1>
+<p align="center">
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pwp/bc2d43a1-bf5e-46de-99bb-2899fe39eb4b.png", height=350, weight=350 /></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pwp/fa2cc44a-508e-4162-a920-4dfdd45b6ba9.png", height=350, weight=450  /></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pwp/bec0eaff-1dea-4788-9814-320105dc0b4e.png", height=350, weight=350  /></a>
+</p>
