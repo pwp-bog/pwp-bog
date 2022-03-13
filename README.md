@@ -26,7 +26,6 @@
 
 
 
-
 <h1 align="center">My stats📊</h1>
 <p align="center">
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pwp/d5dd4fc6-d409-4c5c-8660-a614dea9179e.png" /></a>
