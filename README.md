@@ -31,6 +31,7 @@
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pwp/6ac2448d-8f9a-4ddb-97bd-3bff3e618c12.svg" /></a>
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pwp/f2970ef7-a4e6-4040-b39d-460b73220c14.svg" /></a>
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pwp/4f953ebb-2fee-4e5d-810f-2f1bcfeb1db7.svg" /></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pwp/44f5ac14-bdb3-44f0-a49c-eec97ef46daa.svg" /></a>
 </p>
 
 <h1 align="center">My social🌐</h1>
