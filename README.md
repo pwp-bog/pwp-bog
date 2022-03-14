@@ -28,9 +28,9 @@
 
 <h1 align="center">My stats📊</h1>
 <p align="center">
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pwp/d5dd4fc6-d409-4c5c-8660-a614dea9179e.png" /></a>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pwp/88a47e9d-3c34-4370-999c-7bd8fa3ee1ac.png" /></a>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pwp/3e584af6-40e6-4357-adbf-e61e31ec4708.png" /></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pwp/6ac2448d-8f9a-4ddb-97bd-3bff3e618c12.svg" /></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pwp/f2970ef7-a4e6-4040-b39d-460b73220c14.svg" /></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pwp/4f953ebb-2fee-4e5d-810f-2f1bcfeb1db7.svg" /></a>
 </p>
 
 <h1 align="center">My social🌐</h1>
