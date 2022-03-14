@@ -12,14 +12,14 @@
 <h1 align="center">Pined repositories📌</h1>
 <p align="center">
 <a href="https://github.com/pwp-programer/College_labs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=College_labs&theme=jolly" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=College_labs&theme=shades-of-purple" />
 </a>
 <a href="https://github.com/pwp-programer/Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=Python&theme=jolly" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=Python&theme=shades-of-purple" />
 <a href="https://github.com/pwp-programer/flip_coin_bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=flip_coin_bot&theme=jolly"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=flip_coin_bot&theme=shades-of-purple"/>
 <a href="https://github.com/pwp-programer/pwp_weather_bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=pwp_weather_bot&theme=jolly" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=pwp_weather_bot&theme=shades-of-purple" /></a>
 
 ---
 
