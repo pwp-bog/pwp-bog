@@ -6,20 +6,11 @@
 <details>
 <summary>Funny gif`s</summary>
     <br>
-    <img align="center" src="https://c.tenor.com/85r7Pk6D4DcAAAAM/rozen-maiden-black-angel.gif", height=115, weight=115> <img align="center" src="https://c.tenor.com/xklOiVCCi-MAAAAC/anime-sugar.gif", height=115, weight=115> <img align="center" src="https://c.tenor.com/rEUt-gTZGroAAAAC/anime.gif", height=115, weight=115> <img align="center" src="https://c.tenor.com/Y0ZkZqBrUnMAAAAM/anime-aesthetic.gif", weight=115, height=115>
+    <img align="center" src="https://c.tenor.com/85r7Pk6D4DcAAAAM/rozen-maiden-black-angel.gif", height=110, weight=95> <img align="center" src="https://c.tenor.com/Y0ZkZqBrUnMAAAAM/anime-aesthetic.gif", weight=95, height=110> <img align="center" src="https://cdn.statically.io/img/i.pinimg.com/originals/4b/28/91/4b2891caae3d814f02938840d020895d.gif", height=110, weight=95> <img align="center" src="https://66.media.tumblr.com/ffc302cb9fd6086c5cae1cb23db38ccf/tumblr_muv8ubhLzn1s3zgrwo1_400.gifv", height=110, weight=95>
 </details>
 
 
 
---------------------------------
-
-<h1 align="center">Hello this is my repo<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1></h1>
-<p align="center">
-    <img align="center" src="https://c.tenor.com/Vqy4yLXk2iAAAAAC/anime-cute.gifhttps://i.pinimg.com/originals/f4/db/6f/f4db6fff7d8c50709eb924d33484524e.gif", height=120, weight=150>
-    <img align="center" src="https://c.tenor.com/kzr6MdTGktsAAAAd/love-anime.gif", height=120, weight=150>
-    <img align="center" src="https://i.imgur.com/b76RLSy.gif" height=120, weight=150/>
-    <img align="center" src="https://thumbs.gfycat.com/AdmirableHospitableHen-size_restricted.gif", height=120, weight=150>
-</p>
 
 
 ---
