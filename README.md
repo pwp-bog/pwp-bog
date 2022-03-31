@@ -6,7 +6,7 @@
 <details>
 <summary>Funny gif`s</summary>
     <br>
-    <img align="center" src="https://c.tenor.com/85r7Pk6D4DcAAAAM/rozen-maiden-black-angel.gif", height=117, weight=117><img align="center" src="https://c.tenor.com/xklOiVCCi-MAAAAC/anime-sugar.gif", height=117, weight=117><img align="center" src="https://c.tenor.com/rEUt-gTZGroAAAAC/anime.gif", height=117, weight=117><img align="center" src="https://c.tenor.com/Y0ZkZqBrUnMAAAAM/anime-aesthetic.gif", weight=117, height=117>
+    <img align="center" src="https://c.tenor.com/85r7Pk6D4DcAAAAM/rozen-maiden-black-angel.gif", height=115, weight=115> <img align="center" src="https://c.tenor.com/xklOiVCCi-MAAAAC/anime-sugar.gif", height=115, weight=115> <img align="center" src="https://c.tenor.com/rEUt-gTZGroAAAAC/anime.gif", height=115, weight=115> <img align="center" src="https://c.tenor.com/Y0ZkZqBrUnMAAAAM/anime-aesthetic.gif", weight=115, height=115>
 </details>
 
 
