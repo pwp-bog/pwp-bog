@@ -39,14 +39,14 @@
 <h3 align="left">📌 Most used repositories:</h3>
 <p align="center">
 <a href="https://github.com/pwp-programer/College_labs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=College_labs&theme=apprentice" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=College_labs&theme=dark" />
 </a>
 <a href="https://github.com/pwp-programer/Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=Python&theme=apprentice" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=Python&theme=dark" />
 <a href="https://github.com/pwp-programer/pwp_gif_bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=pwp_gif_bot&theme=apprentice"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=pwp_gif_bot&theme=dark"/>
 <a href="https://github.com/pwp-programer/pwp_currency_bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=pwp_currency_bot&theme=apprentice"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=pwp_currency_bot&theme=dark"/>
 </a>
 </p>
 
