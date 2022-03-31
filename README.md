@@ -2,16 +2,11 @@
 <h1 align="center">Hello this is my repo<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
-<!-- This is need for good working gif`s
-https://i.gifer.com/ZXN9.gif
-https://i.gifer.com/6TJb.gif
-https://c.tenor.com/rEUt-gTZGroAAAAC/anime.gif
-https://c.tenor.com/Y0ZkZqBrUnMAAAAM/anime-aesthetic.gif
--->
+<!-- First gif block-->
 <details>
 <summary>Funny gif`s</summary>
     <br>
-    <img align="center" src="https://c.tenor.com/85r7Pk6D4DcAAAAM/rozen-maiden-black-angel.gif", height=110, weight=250><img align="center" src="https://i.gifer.com/6TJb.gif", height=110, weight=110><img align="center" src="https://c.tenor.com/rEUt-gTZGroAAAAC/anime.gif", height=110, weight=110><img align="center" src="https://c.tenor.com/Y0ZkZqBrUnMAAAAM/anime-aesthetic.gif", weight=110, height=110>
+    <img align="center" src="https://c.tenor.com/85r7Pk6D4DcAAAAM/rozen-maiden-black-angel.gif", height=117, weight=117><img align="center" src="https://c.tenor.com/xklOiVCCi-MAAAAC/anime-sugar.gif", height=117, weight=117><img align="center" src="https://c.tenor.com/rEUt-gTZGroAAAAC/anime.gif", height=117, weight=117><img align="center" src="https://c.tenor.com/Y0ZkZqBrUnMAAAAM/anime-aesthetic.gif", weight=117, height=117>
 </details>
 
 
