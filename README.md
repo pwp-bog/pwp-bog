@@ -47,7 +47,7 @@
     
     
     
-    <details open>
+<details open>
 <summary><h1 align="center">Hello this is my repo<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1></h1></summary>
 <br/>
 <pre>
