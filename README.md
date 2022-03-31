@@ -47,9 +47,11 @@
     
     
     
-<details open>
-<summary><h1 align="center">Hello this is my repo<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1></h1></summary>
-<br/>
-<pre>
-<img align="center" src="https://i.gifer.com/ZXN9.gif", height=100, weight=80> <img align="center" src="https://i.gifer.com/6TJb.gif", height=100, weight=80> <img align="center" src="https://c.tenor.com/rEUt-gTZGroAAAAC/anime.gif", height=100, weight=80> <img align="center" src="https://c.tenor.com/Y0ZkZqBrUnMAAAAM/anime-aesthetic.gif", weight=80, height=100>
-</pre>
+
+
+<details>
+<summary>Funny gif`s</summary>
+    <br>
+    <h1 align="center">Hello this is my repo<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+    <img align="center" src="https://i.gifer.com/ZXN9.gif", height=80, weight=80> <img align="center" src="https://i.gifer.com/6TJb.gif", height=80, weight=80> <img align="center" src="https://c.tenor.com/rEUt-gTZGroAAAAC/anime.gif", height=80, weight=80> <img align="center" src="https://c.tenor.com/Y0ZkZqBrUnMAAAAM/anime-aesthetic.gif", weight=80, height=80>
+</details>
