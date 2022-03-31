@@ -12,19 +12,38 @@
 
 
 
-
----
-<h1 align="center">Pined repositories📌</h1>
+<!-- Secondary repositories pin block -->
+-----------------------------
+<h1 align="center">Most used repositories 📌</h1>
 <p align="center">
 <a href="https://github.com/pwp-programer/College_labs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=College_labs&theme=shades-of-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=College_labs&theme=apprentice" />
 </a>
 <a href="https://github.com/pwp-programer/Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=Python&theme=shades-of-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=Python&theme=apprentice" />
+<a href="https://github.com/pwp-programer/pwp_gif_bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=pwp_gif_bot&theme=apprentice"/>
+<a href="https://github.com/pwp-programer/pwp_currency_bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=pwp_currency_bot&theme=apprentice"/>
+</a>
+</p>
+
+
+<details>
+<summary>All public repositories</summary>
+<br>
+<p align="center">
+<a href="https://github.com/pwp-programer/CSharp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=CSharp&theme=apprentice" />
+</a>
+<a href="https://github.com/pwp-programer/pass-generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=pass-generator&theme=apprentice" />
 <a href="https://github.com/pwp-programer/flip_coin_bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=flip_coin_bot&theme=shades-of-purple"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=flip_coin_bot&theme=apprentice"/>
 <a href="https://github.com/pwp-programer/pwp_weather_bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=pwp_weather_bot&theme=shades-of-purple" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=pwp_weather_bot&theme=apprentice"/>
+</p>
+</details>
 
 ---
 
