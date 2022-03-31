@@ -11,7 +11,7 @@ https://c.tenor.com/Y0ZkZqBrUnMAAAAM/anime-aesthetic.gif
 <details>
 <summary>Funny gif`s</summary>
     <br>
-    <img align="center" src="https://i.gifer.com/ZXN9.gif", height=110, weight=110><img align="center" src="https://i.gifer.com/6TJb.gif", height=110, weight=110><img align="center" src="https://c.tenor.com/rEUt-gTZGroAAAAC/anime.gif", height=110, weight=110><img align="center" src="https://c.tenor.com/Y0ZkZqBrUnMAAAAM/anime-aesthetic.gif", weight=110, height=110>
+    <img align="center" src="https://c.tenor.com/85r7Pk6D4DcAAAAM/rozen-maiden-black-angel.gif", height=110, weight=250><img align="center" src="https://i.gifer.com/6TJb.gif", height=110, weight=110><img align="center" src="https://c.tenor.com/rEUt-gTZGroAAAAC/anime.gif", height=110, weight=110><img align="center" src="https://c.tenor.com/Y0ZkZqBrUnMAAAAM/anime-aesthetic.gif", weight=110, height=110>
 </details>
 
 
