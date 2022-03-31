@@ -42,3 +42,18 @@
 
 </p>
 </p>
+
+    
+    
+    
+  
+<p>Нажми <a href="#hidden1" onclick="view('hidden1'); return false">эту ссылку</a></p>  
+<div id="hidden1" style="display: none;">
+<h3>Тут заголовок</h3>
+<p>А тут основной текст</p></div>
+
+
+<a href="#hidden2" onclick="view('hidden2'); return false">Нажми меня!</a>
+<div id="hidden2" style="display: none;">
+<h3>Тут заголовок</h3>
+<p>А тут основной текст</p></div>
