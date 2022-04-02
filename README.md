@@ -14,7 +14,7 @@
 <summary>📊 My stats: </summary>
   <br>
   Coding activity around over last 7 days:
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pwp/360a6d01-33f2-4734-b97d-df236ee984fc.png" /></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pwp/c8e6017c-a1c5-432d-a3cf-26f3adf0a054.svg" /></a>
   Languages activity over last 7 days:
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pwp/41ea058e-2489-40eb-952a-f342aa1d5b96.png" /></a>
 </details>
