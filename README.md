@@ -16,7 +16,7 @@
   Coding activity around over last 7 days:
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pwp/bcb4344f-ab8e-4fd5-a354-88f3a6e133f8.svg" /></a>
   Languages activity over last 7 days:
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pwp/45c7f8dd-55b3-4632-8143-c5bca8123a0d.svg" /></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pwp/1311c2b7-3f08-40d8-8139-e4ae77ec32f4.svg" /></a>
 </details>
 
 
