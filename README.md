@@ -49,8 +49,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=pwp_gif_bot&theme=github_dark"/>
 <a href="https://github.com/pwp-programer/pwp_currency_bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=pwp_currency_bot&theme=github_dark"/>
-</a> -->
-</p>
+</a>--></p>
 
 <!-- Dropdown repo block -->
 <details>
