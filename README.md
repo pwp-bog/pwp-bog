@@ -1,6 +1,6 @@
-<!-- Welcome message 
+<!-- Welcome message  -->
 <h1 align="center">Hello <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
--->
+
 
 <!-- First gif block-->
 <details>
