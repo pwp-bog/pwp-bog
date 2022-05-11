@@ -4,7 +4,7 @@
 
 <!-- First gif block-->
 <details>
-<summary>🐱‍👤 Gif`s: </summary>
+<summary>👤 Gif`s: </summary>
     <br>
     <img align="center" src="https://c.tenor.com/85r7Pk6D4DcAAAAM/rozen-maiden-black-angel.gif", height=110, weight=95> <img align="center" src="https://c.tenor.com/Y0ZkZqBrUnMAAAAM/anime-aesthetic.gif", weight=95, height=110> <img align="center" src="https://cdn.statically.io/img/i.pinimg.com/originals/4b/28/91/4b2891caae3d814f02938840d020895d.gif", height=110, weight=95> <img align="center" src="https://66.media.tumblr.com/ffc302cb9fd6086c5cae1cb23db38ccf/tumblr_muv8ubhLzn1s3zgrwo1_400.gifv", height=110, weight=95>
 </details>
