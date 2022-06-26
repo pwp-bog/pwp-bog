@@ -7,7 +7,7 @@
 <summary>🐱‍👤 Gif`s: </summary>
     <br>
     <p align="center">
-      <img align="center" src="https://c.tenor.com/85r7Pk6D4DcAAAAM/rozen-maiden-black-angel.gif", height=110, weight=127> <img align="center" src="https://c.tenor.com/Y0ZkZqBrUnMAAAAM/anime-aesthetic.gif", weight=127, height=110> <img align="center" src="https://cdn.statically.io/img/i.pinimg.com/originals/4b/28/91/4b2891caae3d814f02938840d020895d.gif", height=110, weight=127>
+      <img align="center" src="https://c.tenor.com/85r7Pk6D4DcAAAAM/rozen-maiden-black-angel.gif", height=140, weight=180> <img align="center" src="https://c.tenor.com/Y0ZkZqBrUnMAAAAM/anime-aesthetic.gif", weight=180, height=140> <img align="center" src="https://cdn.statically.io/img/i.pinimg.com/originals/4b/28/91/4b2891caae3d814f02938840d020895d.gif", height=140, weight=180>
     </p>
     
 </details>
