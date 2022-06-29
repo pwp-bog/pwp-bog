@@ -33,7 +33,7 @@
   <br>
   <p align="center">
   <a href = "https://vk.com/authorpythonkazika" target="blank"><img align="center" src="https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/vk-com-icon-18-256.png" alt="" height="25" width="25" /></a> - Vkontakte
-  <a href="https://t.me/pwp_programer" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/flat-emails-action/16/04_send-telegram-paper-plane-512.png" alt="" height="25" width="28" /></a> - Telegram
+  <a href="https://t.me/ei_bogdan" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/flat-emails-action/16/04_send-telegram-paper-plane-512.png" alt="" height="25" width="28" /></a> - Telegram
   <a href="https://discordapp.com/users/781475572622295071" target="blank"><img align="center" src="https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-White-1024x780.png" alt="" height="20" width="28" /></a> - Discord
   <a href="mailto:bogdanzadora2005@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/black-white-social-media/32/email_mail_envelope_send_message-256.png" alt="" height="28" width="28" /></a> - Mail
   </p>
