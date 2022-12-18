@@ -4,16 +4,7 @@
 
 
 
-<!-- Third repositories pin block -->
-<h3 align="center">📌 Most used repositories:</h3>
-<p align="center">
-<a href="https://github.com/pwp-programer/CSharp_Labs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=CSharp_Labs&theme=github_dark" />
-</a>
-<a href="https://github.com/pwp-programer/Psihov.net">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=Psihov.net&theme=github_dark"/>
-</a>
-</p>
+
 
 
 
