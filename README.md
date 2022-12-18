@@ -5,7 +5,7 @@
 
 
 <!-- Third repositories pin block -->
-<h3 align="center">📌 Most used repositories:</h3>
+<!--<h3 align="center">📌 Most used repositories:</h3>
 <p align="center">
 <a href="https://github.com/pwp-programer/CSharp_Labs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=CSharp_Labs&theme=github_dark" />
@@ -14,10 +14,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-programer&repo=Psihov.net&theme=github_dark"/>
 </a>
 </p>
+-->
 
 
 
 <!-- First gif block-->
+<!--
 <details>
 <summary>🐱‍👤 Gif`s: </summary>
     <br>
@@ -26,6 +28,7 @@
     </p>
     
 </details>
+-->
 
 <!-- Secondary stats block -->
 <details>
