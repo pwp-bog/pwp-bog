@@ -39,8 +39,7 @@
   <br />  
   <br />  
   Languages activity over last 7 days:
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pwp/a2d53862-7375-430a-a0a5-328e98f308c9.svg" /></a>
-  <figure><embed src="https://wakatime.com/share/@pwp/6611c951-c118-4816-9de4-1019f92b8b29.svg"></embed></figure>
+  <a href="https://wakatime.com"><img src="[https://wakatime.com/share/@pwp/a2d53862-7375-430a-a0a5-328e98f308c9.svg](https://wakatime.com/share/@pwp/6611c951-c118-4816-9de4-1019f92b8b29.svg)" /></a>
 </details>
 
 
