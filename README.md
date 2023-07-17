@@ -34,7 +34,7 @@
 <details>
 <summary>📊 My stats: </summary>
   <br>
-  <h1>Coding activity around over last 30 days:</h1>
+  <h1>Coding activity over last 30 days:</h1>
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pwp/5e2cec0d-5904-478a-bfd7-ac867b2f4802.svg" /></a>
   <br />  
   <br />  
