@@ -34,12 +34,12 @@
 <details>
 <summary>📊 My stats: </summary>
   <br>
-  Coding activity around over last 7 days:
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pwp/263c02e7-6701-49e0-bd18-588727aecfb5.svg" /></a>
+  <h1>Coding activity around over last 30 days:</h1>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pwp/5e2cec0d-5904-478a-bfd7-ac867b2f4802.svg" /></a>
   <br />  
   <br />  
-  Languages activity over last 7 days:
-  <a href="https://wakatime.com"><img src="[https://wakatime.com/share/@pwp/a2d53862-7375-430a-a0a5-328e98f308c9.svg](https://wakatime.com/share/@pwp/6611c951-c118-4816-9de4-1019f92b8b29.svg)" /></a>
+  <h1>Languages activity over last 30 days:</h1>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pwp/6611c951-c118-4816-9de4-1019f92b8b29.svg" /></a>
 </details>
 
 
